@@ -50,6 +50,7 @@
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86.git" groups="pdk" />
   <project path="device/generic/mini-emulator-x86_64" name="device/generic/mini-emulator-x86_64.git" groups="pdk" />
   <project path="device/generic/qemu" name="device/generic/qemu.git" groups="pdk" />
+  <project path="device/generic/uml" name="device/generic/uml.git" groups="device,pdk" />
   <project path="device/generic/x86" name="device/generic/x86.git" groups="pdk" />
   <project path="device/generic/x86_64" name="device/generic/x86_64.git" groups="pdk" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino.git" groups="device,pdk" />
