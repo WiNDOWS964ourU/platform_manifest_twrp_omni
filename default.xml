@@ -375,7 +375,7 @@
   <project path="external/tinycompress" name="platform/external/tinycompress.git" groups="pdk" />
   <project path="external/tinyxml" name="platform/external/tinyxml.git" groups="pdk" />
   <project path="external/tinyxml2" name="platform/external/tinyxml2.git" groups="pdk" />
-  <project path="external/toolchain-utils" name="platform/external/toolchain-utils" />
+  <project path="external/toolchain-utils" name="platform/external/toolchain-utils.git" />
   <project path="external/toybox" name="platform/external/toybox.git" groups="pdk" />
   <project path="external/tpm2" name="platform/external/tpm2.git" groups="pdk" />
   <project path="external/trappy" name="platform/external/trappy.git" groups="pdk" />
