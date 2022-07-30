@@ -709,7 +709,7 @@
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation.git" groups="pdk,tradefed" />
   <project path="tools/tradefederation/contrib" name="platform/tools/tradefederation/contrib.git" groups="pdk,tradefed" />
 
-  <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
+  <repo-hooks in-project="platform/tools/repohooks.git" enabled-list="pre-upload" />
 
   <!-- OmniROM -->
   <include name="omni-default.xml" />
