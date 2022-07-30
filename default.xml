@@ -501,7 +501,7 @@
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan.git" groups="qcom_wlan,pdk-qcom" />
   <project path="hardware/ril" name="platform/hardware/ril.git" groups="pdk" />
   <project path="kernel/configs" name="kernel/configs.git" groups="vts,pdk" />
-  <project path="kernel/tests" name="kernel/tests" />
+  <project path="kernel/tests" name="kernel/tests.git" />
   <project path="libcore" name="platform/libcore.git" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper.git" groups="pdk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver.git" groups="pdk-cw-fs,pdk-fs" />
