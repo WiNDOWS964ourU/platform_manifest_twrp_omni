@@ -164,7 +164,7 @@
     <remove-project name="platform/external/seccomp-tests.git"/>
     <remove-project name="platform/external/sfntly.git"/>
     <remove-project name="platform/external/shflags.git"/>
-    <remove-project name="android_external_skia.git"/>
+    <remove-project name="android_external_skia"/>
     <remove-project name="platform/external/sl4a.git"/>
     <remove-project name="platform/external/slf4j.git"/>
     <remove-project name="platform/external/smali.git"/>
