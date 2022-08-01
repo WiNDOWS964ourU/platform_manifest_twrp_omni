@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="TeamWin"
-            fetch="https://github.com/TeamWin"
+            fetch="https://hub.fastgit.xyz/TeamWin"
             review="https://gerrit.twrp.me" />
 
     <remote name="LineageOS"
-            fetch="https://github.com/LineageOS"
+            fetch="https://hub.fastgit.xyz/LineageOS"
             review="https://review.lineageos.org" />
 
 <!-- TWRP lives in TeamWin android-10.0 (not AOSP!) -->
